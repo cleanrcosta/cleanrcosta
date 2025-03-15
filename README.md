@@ -1,6 +1,6 @@
-🙋‍♂️
+
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&background=85858500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Clean+Rodrigo+Costa;A+passionate+Fullstack+developer+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&background=85858500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Clean+Rodrigo+Costa;A+passionate+Fullstack+developer+from+Brazil)](https://git.io/typing-svg)
 # 🌟 Bem-vindo ao meu perfil!
 
 ---
