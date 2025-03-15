@@ -74,6 +74,7 @@ Meu objetivo é desenvolver competências e habilidades, tanto **hard skills** q
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
+
 ## 🛢️[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=85858500&width=435&lines=Banco+de+Dados)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -82,9 +83,11 @@ Meu objetivo é desenvolver competências e habilidades, tanto **hard skills** q
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
+---
 
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cleanrcosta&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleanrcosta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  
+<div align="left">
+  <a href="https://github.com/KAYOKG">
+    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=cleanrcosta&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Kayo Galdino github stats" />
+    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleanrcosta&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+   
+</div>
