@@ -21,7 +21,7 @@ Meu objetivo é desenvolver competências e habilidades, tanto **hard skills** q
 
 - 🌱 I’m currently learning **"Develop all skills to become a complete fullstack developer."**
 
-- 🤝 I’m looking for help with [Fábrica de Portfólio: Comunidade colaborativa, da qual sou fundador, criada em março de 2025](https://chat.whatsapp.com/FuYUN0JcUb52ZFh6UlD0Jq)
+- 🤝 I’m looking for help with [Fábrica de Portfólio: Comunidade colaborativa, criada em março de 2025, da qual sou fundador](https://chat.whatsapp.com/FuYUN0JcUb52ZFh6UlD0Jq)
 
 - 👨‍💻 All of my projects are available at [https://cleanrcosta.github.io/portfolio/](https://cleanrcosta.github.io/portfolio/)
 
