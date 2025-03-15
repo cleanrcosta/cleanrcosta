@@ -12,7 +12,7 @@ Após 7 anos trabalhando na área da saúde 🏥, decidi seguir minha paixão e 
 ---
 
 ## 🎯 Meu Objetivo
-Meu objetivo é desenvolver competências e habilidades, tanto **hard skills** quanto **soft skills**, para contribuir com projetos inovadores de **TI**. 💡 Quero fazer a diferença no mundo tech com soluções criativas e impactantes. 🌐
+Meu objetivo é desenvolver competências e habilidades, tanto **hard skills** quanto **soft skills**, para contribuir com projetos inovadores de **TI**. 💡 Quero fazer a diferença no mundo tech com soluções criativas e impactantes. 🌐 Principalmente desenvolver comportamento de pensamento crítico relacionado aos negócios do mundo empresarial, aliado aos conhecimentos de tecnológia para entregar valor e resolver problemas de forma eficiente e inovadora!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cleanrcosta&label=Profile%20views&color=0e75b6&style=flat" alt="cleanrcosta" /> </p>
