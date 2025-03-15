@@ -84,8 +84,8 @@ Meu objetivo é desenvolver competências e habilidades, tanto **hard skills** q
 </p>
 
 ---
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cleanrcosta&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cleanrcosta&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cleanrcosta&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cleanrcosta&layout=compact&hide=assembly,jupyter%20notebook&langs_count=10)](https://github.com/cleanrcosta)
 
 
