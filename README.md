@@ -84,10 +84,8 @@ Meu objetivo é desenvolver competências e habilidades, tanto **hard skills** q
 </p>
 
 ---
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cleanrcosta&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<div align="left">
-  <a href="https://github.com/KAYOKG">
-    <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=cleanrcosta&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Kayo Galdino github stats" />
-    <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleanrcosta&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
-   
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cleanrcosta&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+
